@@ -1,0 +1,8 @@
+# python environment
+/my_env
+
+# .env
+.env.secret
+.env.shared
+
+# other
