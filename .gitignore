@@ -5,4 +5,7 @@
 .env.secret
 .env.shared
 
+# app
+web_dev/__pycache__
+
 # other
