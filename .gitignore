@@ -7,5 +7,9 @@
 
 # app
 web_dev/__pycache__
+web_dev/database
+
+# database
+instance
 
 # other
